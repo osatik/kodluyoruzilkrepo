@@ -22,3 +22,5 @@ istediğinizi tartışmak için bir konu açınız.
 ## **Lisence**
 
 <u>[MIT](https://github.com/osatik/kodluyoruzilkrepo/blob/main/LICENSE)</u>
+
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
